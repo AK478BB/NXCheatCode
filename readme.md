@@ -6,13 +6,8 @@
 
 613A885E8F37A1C7是WarpDrive的2.30版的BID，如果该游戏版本升级，BID都不一样
 
-This is a collection of Nintendo Switch cheat code posted at https://gbatemp.net/threads/cheat-codes-ams-and-sx-os-add-and-request.520293/
-compiled by the owner of the thread matias3ds.
+https://gbatemp.net/threads/cheat-codes-ams-and-sx-os-add-and-request.520293/
 
-This database is used by Breeze and EdiZon SE. The latest release of this database can be fetched in app with Breeze https://github.com/tomvita/Breeze-Beta or EdiZon SE https://github.com/tomvita/EdiZon-SE
-
-To manually download the database get it here and put the file in the corresponding directory of 
-Breeze "/switch/breeze/cheats/titles.zip" or EdiZone SE "/switch/EdiZon/cheats/titles.zip"
 
  
  
