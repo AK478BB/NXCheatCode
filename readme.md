@@ -6,8 +6,17 @@
 
 613A885E8F37A1C7是WarpDrive的2.30版的BID，如果该游戏版本升级，BID都不一样
 
-https://gbatemp.net/threads/cheat-codes-ams-and-sx-os-add-and-request.520293/
+♥♥收藏♥♥几个Switch游戏金手指或者合集的下载地址
+
+https://github.com/tomvita/NXCheatCode/releases
 
 
+https://github.com/tomvita/MyNXCheats/releases
+
+
+https://gbatemp.net/download/categories/cheats.1691/
+
+
+https://github.com/HamletDuFromage/switch-cheats-db/releases
  
  
